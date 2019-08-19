@@ -5,4 +5,4 @@ Offical implementation of ACM MM 2018 paper: "BeautyGAN: Instance-level Facial M
 Dataset can be found in project page: http://colalab.org/projects/BeautyGAN
 
 
-## under constrution
+## still in construction
